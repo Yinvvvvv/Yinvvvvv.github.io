@@ -16,6 +16,8 @@ Research
 
 My research interests includes
 
-- Learning theory
-- Causal Inferece
+- Learning theory (ML,DL,RL)
+- Causal Inference
 - Subgroup Analysis
+- Adaptive Experiment
+
