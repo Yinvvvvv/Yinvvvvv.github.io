@@ -7,8 +7,11 @@
 main:
 
     
+
+    
+  - title: "Notes"
+    url: /markdown/
+
+
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
