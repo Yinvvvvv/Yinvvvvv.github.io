@@ -4,7 +4,7 @@ title: "Notes"
 author_profile: true
 redirect_from: 
   - /md/
-  - /notes.html
+  - /markdown.html
 ---
 
 ## Subgroup analysis
