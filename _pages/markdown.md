@@ -1,5 +1,5 @@
 ---
-permalink: /notes/
+permalink: /markdown/
 title: "Notes"
 author_profile: true
 redirect_from: 
