@@ -14,7 +14,7 @@ Hi there 👋 I am Xiaowei Yin, a senior undergraduate student at the School of 
 Research
 -----
 
-My research interests includes
+My research interests includes:
 
 
 - **Learning theory (ML,RL,DL)**
