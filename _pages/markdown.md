@@ -16,6 +16,6 @@ redirect_from:
 ## Causal ML
 - [Notes for CausalML](../assets/Note_for_CausalML.pdf)
 
-## Learning Theroy
+## Learning Theory
 - [Notes for Bounds](../assets/Note_for_Bounds.pdf)
 - [Notes for RKHS](../assets/Note_for_RKHS.pdf)
