@@ -11,7 +11,7 @@ redirect_from:
 
 Hi there 👋 I am Xiaowei Yin, a senior undergraduate student at the School of Statistics, Renmin University of China (RUC), majoring in Statistics. You can download my CV here: [CV](../assets/CV.pdf)
 
-I’m having some trouble receiving emails at my email address (2021201831@ruc.edu.cn). While I’m fixing it, feel free to reach me at this email (yxw1123@ruc.edu.cn). Thanks for your patience!❤️ 
+I’m having some trouble receiving emails at my email address (*2021201831@ruc.edu.cn*). While I’m fixing it, feel free to reach me at this email (**yxw1123@ruc.edu.cn**). Thanks for your patience!❤️ 
 
 Research
 -----
