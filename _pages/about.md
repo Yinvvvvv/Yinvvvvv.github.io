@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-Hi there 👋 I am Xiaowei Yin, a senior undergraduate student at the School of Statistics, Renmin University of China (RUC), majoring in Statistics. You can download my CV here: [CV](../assets/CV.pdf)
+Hi there 👋 I am Xiaowei Yin, a senior undergraduate student at the School of Statistics, Renmin University of China (RUC), majoring in Statistics. 
 
 
 
