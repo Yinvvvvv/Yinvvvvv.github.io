@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-Hi there 👋 I am Xiaowei Yin, a first year PhD student in Computer Science in UNC. Previously, I completed my undergraduate study at the School of Statistics, Renmin University of China (RUC), majoring in Statistics. 
+Hi there 👋 I am Xiaowei Yin, a first year PhD student in Computer Science in UNC, supervised by Prof. Zhun Deng. Previously, I completed my undergraduate study at the School of Statistics, Renmin University of China (RUC), majoring in Statistics. 
 
 
 
