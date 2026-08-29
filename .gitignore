@@ -3,8 +3,6 @@ _site/
 
 # Ignore the directory for local files during development
 local/
-.bundle/
-vendor/
 
 # Ignore the Gemfile that is generated
 Gemfile.lock
