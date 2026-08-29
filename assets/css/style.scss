@@ -1,0 +1,21 @@
+---
+---
+
+@import "minimal-light";
+
+/* Keep the Minimal Light defaults, with the profile image scaled up by 5%. */
+.image.avatar img {
+  width: 47.25%;
+}
+
+@media print, screen and (max-width: 960px) {
+  .image.avatar img {
+    width: 123px;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  .image.avatar img {
+    width: 100px;
+  }
+}
