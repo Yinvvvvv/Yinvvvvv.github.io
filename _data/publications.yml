@@ -6,3 +6,4 @@ main:
     pdf: "https://arxiv.org/pdf/2602.16745"
     code: "https://github.com/ZDCSlab/PETS"
     notes: "* Equal contribution"
+    image: "./images/pets.png"
