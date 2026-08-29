@@ -5,17 +5,17 @@
 
 /* Keep the Minimal Light defaults, with a slightly larger profile image. */
 .image.avatar img {
-  width: 52%;
+  width: 60%;
 }
 
 @media print, screen and (max-width: 960px) {
   .image.avatar img {
-    width: 135px;
+    width: 156px;
   }
 }
 
 @media print, screen and (max-width: 480px) {
   .image.avatar img {
-    width: 110px;
+    width: 127px;
   }
 }
