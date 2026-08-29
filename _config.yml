@@ -1,27 +1,35 @@
-# Minimal Light academic homepage
+# Basic Information
 title: Xiaowei Yin
 position: Ph.D. Student in Computer Science
 affiliation: University of North Carolina at Chapel Hill
 affiliation_link: https://cs.unc.edu/
 email: yinxw [at] cs.unc.edu
 
-# Search engine optimization
+# Search Engine Optimization (SEO)
 keywords: Xiaowei Yin, efficient LLM reasoning, test-time computation, multi-agent systems
 description: Xiaowei Yin is a Computer Science Ph.D. student at UNC-Chapel Hill studying efficient LLM reasoning and adaptive multi-agent systems.
 canonical: https://yinvvvvv.github.io/
 url: https://yinvvvvv.github.io
 baseurl: ""
 
-# Profile links and image. CV is intentionally omitted.
+# Links
 github_link: https://github.com/Yinvvvvv
+
+# Images
 avatar: ./images/profile.png
 favicon: ./images/profile.png
 favicon_dark: ./images/profile.png
 
-# Theme options
+# Footnote
 enable_footnote: true
-auto_dark_mode: false
+
+# Auto Dark Mode
+auto_dark_mode: true
+
+# Font
 font: "Serif"
+
+# Use Minimal Light as a remote theme for GitHub Pages
 remote_theme: yaoyao-liu/minimal-light
 
 plugins:
