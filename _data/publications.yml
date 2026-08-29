@@ -1,0 +1,8 @@
+main:
+  - title: "PETS: A Principled Framework Towards Optimal Trajectory Allocation for Efficient Test-Time Self-Consistency"
+    authors: "Zhangyi Liu*, Huaizhi Qu*, <strong>Xiaowei Yin*</strong>, He Sun, Yanjun Han, Tianlong Chen, Zhun Deng"
+    conference_short: "ICML 2026"
+    conference: "International Conference on Machine Learning (ICML), 2026"
+    paper: "https://arxiv.org/abs/2602.16745"
+    code: "https://github.com/ZDCSlab/PETS"
+    note: "* Equal contribution"
