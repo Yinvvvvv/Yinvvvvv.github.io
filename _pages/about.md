@@ -10,7 +10,7 @@ redirect_from:
 Introduction {#introduction}
 ------------
 
-Hi, I am Xiaowei Yin, a PhD student in Computer Science at the University of North Carolina at Chapel Hill. Previously, I received my bachelor's degree in Statistics from Renmin University of China.
+Hi, I am Xiaowei Yin, a graduate student in Computer Science at the University of North Carolina at Chapel Hill. Previously, I received my bachelor's degree in Statistics from Renmin University of China.
 
 My research focuses on efficient LLM reasoning, test-time computation, and adaptive multi-agent systems, with an emphasis on decision-making under limited computational budgets.
 
@@ -27,7 +27,8 @@ Education {#education}
 ---------
 
 **University of North Carolina at Chapel Hill**<br>
-PhD in Computer Science, 2025 - Present
+Graduate Student in Computer Science, 2025 - Present<br>
+Expected M.S. in Computer Science, June 2027
 
 **Renmin University of China**<br>
 Bachelor's in Statistics, 2021 - 2025
