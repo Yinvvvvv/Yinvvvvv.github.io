@@ -33,6 +33,12 @@ Expected M.S. in Computer Science, June 2027
 **Renmin University of China**<br>
 Bachelor's in Statistics, 2021 - 2025
 
+Services {#services}
+--------
+
+**Teaching Assistant**, Fall 2025, Spring 2026, and Fall 2027<br>
+**Reviewer**, International Conference on Machine Learning (ICML), 2026
+
 Honors & Awards {#awards}
 ----------------
 
